@@ -60,7 +60,7 @@ public class FoodListFragment extends Fragment {
     }
 
     private void initView() {
-//ad
+//adđ
             ((AppCompatActivity)getActivity())
                     .getSupportActionBar()
                     .setTitle( Common.categorySelected.getName() );
